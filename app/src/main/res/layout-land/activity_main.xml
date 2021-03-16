@@ -42,7 +42,7 @@
         android:background="#fff0"
         android:gravity="center"
         android:text="0"
-        android:textSize="160sp"
+        android:textSize="120sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintBottom_toTopOf="@+id/button_count"
